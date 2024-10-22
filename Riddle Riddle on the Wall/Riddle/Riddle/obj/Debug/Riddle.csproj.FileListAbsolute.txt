@@ -1,0 +1,29 @@
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\bin\Debug\Riddle.exe.config
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\bin\Debug\Riddle.exe
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\bin\Debug\Riddle.pdb
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.Form1.resources
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.Properties.Resources.resources
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.csproj.GenerateResource.cache
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.exe
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.pdb
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.Mechanics.resources
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.Main.resources
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.Win.resources
+C:\Users\paula\OneDrive\Desktop\HCI FINAL\Riddle\Riddle\obj\Debug\Riddle.Lose.resources
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\bin\Debug\Riddle.exe
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\bin\Debug\Riddle.exe.config
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.Form1.resources
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.Lose.resources
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.Main.resources
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.Mechanics.resources
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.Properties.Resources.resources
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.Win.resources
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.csproj.GenerateResource.cache
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.exe
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.pdb
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\bin\Debug\Riddle.pdb
+C:\Users\paula\OneDrive\Desktop\Riddle Riddle on the Wall\Riddle\Riddle\obj\Debug\Riddle.Mechanics2.resources
